@@ -29,5 +29,7 @@ These Google Colab notebooks were developed in 2022 as part of the “Machine Le
 - **Goal**: Use a small sample from the FaceForensic++ DeepFake dataset for classifying fake vs. real videos.
 - **Topics**:
   - Mounting Google Drive in Colab for data access
+       - Data source: https://drive.google.com/file/d/1AIJG9i5zGq5kqn8XYcvibytX8ZafvDYD/view?usp=sharing
+       - Download `DeepFake.zip` and place it under the `dataset` folder in your Google Drive
   - Building a classifier for fake and real samples based on previous session concepts
 - **Purpose**: Prepares students for real-world dataset management and practical classification techniques.
