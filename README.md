@@ -1,6 +1,6 @@
 # CNN Tutorial Notebooks for High School Education: Machine Learning and Data Mining
 
-This repository contains Google Colab notebooks developed in 2022 as part of the “Machine Learning and Data Mining” course for high school students at SKKU. Created as teaching assistant (TA) materials, these notebooks were supported by the SW-centered University Project under the Ministry of Science and ICT and IITP.
+These Google Colab notebooks were developed in 2022 as part of the “Machine Learning and Data Mining” practical course for high school students, prepared under the SW-centered University Project of SKKU funded by the Ministry of Science and ICT and the Institute for Information and Communications Technology Planning and Evaluation (IITP).
 
 ## Target Audience
 - Beginners with basic knowledge of Python and the PyTorch framework
@@ -17,7 +17,7 @@ This repository contains Google Colab notebooks developed in 2022 as part of the
   - Training a basic CNN, observing loss and accuracy, and visualizing test results with `matplotlib`
 - **Purpose**: Introduces CNN basics with a simple dataset and code explanations for students new to Python and PyTorch.
 
-### Exercise 2: Cat & Dog Classification with Custom CNN Model
+### Exercise 2: Cat & Dog Classification with Custom CNN Model / ResNet18
 - **Goal**: Guide students through downloading and using the Cat-and-Dog dataset from Kaggle, creating custom datasets, and exploring binary classification.
 - **Topics**:
   - Handling custom datasets with `torch.utils.data.Dataset`, assigning binary labels
@@ -25,7 +25,7 @@ This repository contains Google Colab notebooks developed in 2022 as part of the
   - Building a custom CNN and comparing its performance on complex data with `ResNet18` from `timm`
 - **Purpose**: Enables students to apply learned concepts by building and testing their own CNN on real-world data.
 
-### Exercise 3: DeepFake Detection with ResNet Model
+### Exercise 3: DeepFake Detection with ResNet18 Model
 - **Goal**: Use a small sample from the FaceForensic++ DeepFake dataset for classifying fake vs. real videos.
 - **Topics**:
   - Mounting Google Drive in Colab for data access
